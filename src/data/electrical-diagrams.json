@@ -1,0 +1,26 @@
+[
+  {
+    "id": "diagram-1",
+    "name": "Instalación de Canaletas",
+    "type": "monofasico",
+    "description": "Sistema de cableado con canaletas y conductos",
+    "blueprints": "/src/assets/blueprints/electrical-diagram-1.png",
+    "specs": "/src/assets/specs/electrical-diagram-1_m.png"
+  },
+  {
+    "id": "diagram-2", 
+    "name": "Bandeja de Cables",
+    "type": "trifasico",
+    "description": "Esquema de bandejas portacables y cajas de distribución",
+    "blueprints": "/src/assets/blueprints/electrical-diagram-2.png",
+    "specs": "/src/assets/specs/electrical-diagram-2_m.png"
+  },
+  {
+    "id": "diagram-3",
+    "name": "Panel Eléctrico",
+    "type": "trifasico", 
+    "description": "Diagrama de panel principal y circuitos",
+    "blueprints": "/src/assets/blueprints/electrical-diagram-3.png",
+    "specs": "/src/assets/specs/electrical-diagram-3_m.png"
+  }
+]
